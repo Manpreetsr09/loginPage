@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "749443151263",
+    "project_id": "manrunlogin",
+    "storage_bucket": "manrunlogin.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:749443151263:android:37c8177951d40ebee9f9aa",
+        "android_client_info": {
+          "package_name": "man.run2.myloginpage"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBR9DvkuDUSr4_Ag_yFPkEji_7IjVD2Ass"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
